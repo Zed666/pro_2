@@ -1,0 +1,38 @@
+#textarea1 {
+	height: 100px;
+	margin-bottom: 50px;
+	max-height: 300px;
+	max-width: 400px;
+	min-height: 100px;
+	min-width: 200px;
+	resize: both;
+	width: 200px;
+}
+
+#textarea2{
+	height: 100px;
+	margin-bottom: 50px;
+	resize: none;
+	width: 200px;
+}
+
+#textarea3{
+	height: 100px;
+	margin-bottom: 50px;
+	resize: none;
+	width: 200px;
+}
+
+#textarea4{
+	height: 100px;
+	margin-bottom: 50px;
+	resize: none;
+	width: 200px;
+}
+
+#textarea5{
+	height: 100px;
+	margin-bottom: 50px;
+	resize: none;
+	width: 200px;
+}
